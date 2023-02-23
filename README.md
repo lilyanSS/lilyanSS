@@ -18,8 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h4 align="left">Connect with me:</h4>
-<p align="left">
-<a href="https://www.linkedin.com/in/lilyan-sic%C3%A1-9a3b2a166/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lilyan-sicá" height="30" width="40" /></a>
-</p>
